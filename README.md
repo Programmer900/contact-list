@@ -1,22 +1,24 @@
 # contact-list
-Project on vuetify
 
-## Установка зависимостей(обязательно)
+## Project setup
 ```
 npm install
 ```
 
-### Компиляция, быстрый пересбор для разработки(для проверки на локальном)
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Компиляция и минификация для Продакшн
+### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Линтер и фикс файлов
+### Lints and fixes files
 ```
 npm run lint
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
